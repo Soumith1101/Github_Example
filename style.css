@@ -1,0 +1,37 @@
+.tweet
+{
+    background-color: cyan;
+    color: white;
+    padding: 15px 45.9px;
+    border-radius: 40px;
+    text-decoration: none;
+}
+h1
+{
+    color: yellow;
+    background-color: teal;
+    display: inline;
+}
+.sub
+{
+    background-color: red;
+    color: seashell;
+    padding: 15px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+.facebook
+{
+    background-color: blue;
+    color: cornsilk;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+.download
+{
+    background-color: darkkhaki;
+    color: crimson;
+    padding: 15px;
+    border-radius: 20px;
+}
