@@ -1,37 +1,36 @@
-.tweet
-{
-    background-color: cyan;
-    color: white;
-    padding: 15px 45.9px;
-    border-radius: 40px;
-    text-decoration: none;
-}
-h1
-{
-    color: yellow;
-    background-color: teal;
-    display: inline;
-}
-.sub
-{
-    background-color: red;
-    color: seashell;
-    padding: 15px 20px;
-    border-radius: 25px;
-    text-decoration: none;
-}
 
-.facebook
+h1 
 {
-    background-color: blue;
-    color: cornsilk;
-    padding: 10px 15px;
-    text-decoration: none;
+    text-align: center;
+    color: #2e7aed;
+    font-size: 40px;
 }
-.download
+.container
 {
-    background-color: darkkhaki;
-    color: crimson;
-    padding: 15px;
-    border-radius: 20px;
+background-color: #f1f1f1;
+margin: 0 auto;
+width: 50%;
+padding: 25px;
+}
+h2
+{
+    font-size: 30px;
+  
+}
+img
+{
+    width: 100%;
+}
+a, span
+{
+    color: #ff8000;
+    text-decoration: underline;
+}
+.box
+{
+    width: 100%;
+}
+body
+{
+    width: 100%;
 }
