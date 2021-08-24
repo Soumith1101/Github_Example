@@ -1,0 +1,25 @@
+.autumn
+{
+background-image: linear-gradient(to right, orange, yellowgreen);
+}
+.summer
+{
+   background-image: linear-gradient(to right, yellow, orange);
+
+}
+.spring
+{
+    background-image: linear-gradient(to left, blue, white);
+}
+.winter
+{
+ background-image: linear-gradient(to right, cyan, darkcyan, blue);
+}
+.video
+{
+background-image: linear-gradient(to top,navy, white);
+}
+.diffrence
+{
+ background-image:linear-gradient(to right, orange, yellow,blueviolet, blue);
+}

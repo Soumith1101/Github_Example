@@ -1,0 +1,28 @@
+.back_to_before
+{
+    background-color: brown;
+    color: cornflowerblue;
+    padding: 15px;
+    margin-top: 30px;
+}
+.back_to_before:hover
+{
+    border-radius: 50px;
+    border: firebrick dashed;
+    background-color: khaki;
+}
+body
+{
+    background-color: blue;
+    color: white;
+}
+a{
+    background-color: forestgreen;
+    padding: 10px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+a:hover
+{
+    border: goldenrod solid;
+}

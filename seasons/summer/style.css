@@ -1,0 +1,24 @@
+h1
+{
+    text-align: center;
+}
+.home__
+{
+    background-color: darkkhaki;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    color: white;
+}
+.back
+{
+    color: brown;
+    background-color: cyan;
+    padding:20px;
+}
+.back:hover
+{
+background-color:white;
+border: black solid;
+}

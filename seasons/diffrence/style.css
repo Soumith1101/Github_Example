@@ -1,0 +1,39 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.blue, .yellow, .grey, .orange
+{
+display: inline-block;
+width:25%;
+float:left;
+height:850px;
+}
+body
+{
+    width: 100%;
+    height: 100px;
+}
+.yellow
+{
+background-color: yellow;
+width: 25%;
+}
+.orange
+{
+    background-color: orange;
+    width: 25%;
+ 
+    left: 40px;
+}
+.blue
+{
+    background-color: blue;
+    width: 25%;
+}
+.grey
+{
+    background-color: grey;
+    width: 25%;
+}
