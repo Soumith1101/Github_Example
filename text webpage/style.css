@@ -1,0 +1,39 @@
+body
+{
+    width: 170%;
+    align-items: center;
+}
+div
+{
+    background-color: black;
+    color: white;
+    width: 30%;
+    margin-left: 15%;
+    padding: 30px ;
+}
+.information
+{
+    background-color: yellow;
+color: black;
+list-style-type: none;
+padding: 15px 20px;
+text-decoration: none;
+display: inline-block;
+}
+.contact
+{
+    background-color: yellow;
+    color: black;
+    list-style-type: none;
+    padding: 15px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+span 
+{
+    color: yellow;
+}
+.span_tag
+{
+    color: yellow;
+}
