@@ -1,0 +1,21 @@
+.logo
+{
+    width: 100%; 
+    display: flex;  
+}
+.text
+{
+    text-align: center;
+}
+.divmain
+{
+display: flex;
+flex-wrap: wrap;
+}
+.text
+{
+    display: flex;
+align-self: center;
+padding: 10px;
+display: inline-block;
+}
