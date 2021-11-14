@@ -1,0 +1,16 @@
+.img_1
+{
+display: flex;
+justify-content: center;
+height: 100px;
+object-fit: cover;
+}
+
+.text
+{
+  
+    background-color:slategrey;
+    padding: 5px;
+color: white;
+text-align: center;
+}

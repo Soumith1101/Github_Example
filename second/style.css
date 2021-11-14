@@ -1,0 +1,23 @@
+p, h1
+{
+    text-align: center;
+}
+.one
+{
+background-color: tomato;
+color: rgb(241, 200, 124);
+padding: 15px 20px;
+display: inline-block;
+}
+.two
+{
+    background-color:yellow;
+
+padding: 15px 20px;
+display: inline-block;
+}
+.img
+{
+    margin: 0 auto;
+    width: 20%;
+}
